@@ -1,14 +1,17 @@
 return {
-	['current_version'] = {
-		['new_Version'] = 3,
-		['current_Key'] = 'TamPx',
-		['update_Message'] = 'Hehe',
-		['update_Link'] = 'https://youtube.com/@tampxz',
-		['status_Version'] = 'Beta',
-		['upload_Status'] = false
+	current_version = {
+		new_Version = 3,
+		current_Key = 'TamPx',
+		update_Message = 'Hehe',
+		update_Link = 'https://youtube.com/@tampxz',
+		status_Version = 'Beta',
+		upload_Status = false
 	},
-	['content_Config'] = {
-		['titlet_Config'] = 'New Update',
-		['content_Config'] = 'Hehu'
-	}
+	content_Config = {
+		title_Config = 'New Update',
+		content_Config = 'Hehu'
+	},
+	new_Script = [[
+		
+	]]
 }

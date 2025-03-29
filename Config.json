@@ -1,4 +1,4 @@
-{
+return {
 	['current_version'] = {
 		['new_Version'] = 3,
 		['current_Key'] = 'TamPx',

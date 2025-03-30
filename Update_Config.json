@@ -1,6 +1,7 @@
+local version_Upd = 2
 return {
 		current_version = {
-			new_Version = 3,
+			new_Version = version_Upd,
 			current_Key = 'TamPx',
 			update_Link = 'https://youtube.com/@tampxz',
 			status_Version = 'Beta',
@@ -19,6 +20,7 @@ return {
 			name_Update_Scipt = 'Update Script.lua'
 		},
 		new_Script = [[--Update Time: ]]..os.date()..'\n--Admin: Tam Px\n------------------------------------------\n'..[[
+local current_VersionScript = ]]..version_Upd..'\n'[[
 Write Content Here
 ]]
 }

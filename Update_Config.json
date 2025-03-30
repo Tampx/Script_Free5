@@ -14,7 +14,7 @@ return {
 			change_LogVi = 'Thay Đổi:',
 			change_LogContentVi = 'Chả Có Gì Thay Đổi',
 			content_ConfigEn = 'New Update Version Detected. Click "Update Now" Button To Get New Version.',
-			change_LogEn = 'Change:',
+			change_LogEn = 'Change Log:',
 			change_LogContentEn = 'No Change',
 			name_Update_Scipt = 'Update Script.lua'
 		},

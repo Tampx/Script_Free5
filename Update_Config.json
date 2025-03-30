@@ -19,8 +19,8 @@ return {
 			change_LogContentEn = 'No Change',
 			name_Update_Scipt = 'Update Script.lua'
 		},
-		new_Script = [[--Update Time: ]]..os.date()..'\n--Admin: Tam Px\n------------------------------------------\n'..[[
-local current_VersionScript = ]]..version_Upd..'\n'[[
+		new_Script = [[--Information Update || Do Not Edit This Information]]..'\n--Time Update: '..os.date()..'\n--Admin: Tam Px\n'..[[
+local current_VersionScript = ]]..version_Upd..'\n------------------------------------\n'..[[
 Write Content Here
 ]]
 }

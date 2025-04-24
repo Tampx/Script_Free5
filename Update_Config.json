@@ -1,4 +1,4 @@
-local version_Upd = 1
+local version_Upd = 2
 return {
 		current_version = {
 			new_Version = version_Upd,
